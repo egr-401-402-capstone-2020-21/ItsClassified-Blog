@@ -9,12 +9,12 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 This week, the team set out to complete the following tasks
 
-- 4.2 Software Specification
-- 4.3 Interface Specification
-- 4.4 Component Specification
-- 4.5 Data Specification
-- 4.6 Algorithm Specification
-- Setup Development Environment.
+- Revise & Submit Final Version of Ethics Papers (Individual)
+- Create Trello Board on Github
+- Populate Trello Board with Tasks on Github
+- Identify datasets for image-recognition
+- Research Relevant Classifier Algorithms and create a Cohesive list
+- Refactor & Redesign the SRS for Group Merger.
 
 [Continue Reading Here...](blog2.md)
 
