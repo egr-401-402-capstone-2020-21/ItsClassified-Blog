@@ -22,5 +22,5 @@ In addition to this, we are also doing lots of research and analysis for the dat
 Specifically this week we are analyzing the UrbanSounds dataset and identifying datasets for image-recognition. After we are finished analyzing, we will prepare the datasets for training and testing of the AI algorithms that we will be using.
 We are also comprising a list of possible Ai algorithms that we will be using. Some that we are most likly to include are SVM, Neural Network, and Convolutional Neural Network.
 
-#### Updated and Submitted by Cameron Ho on 11/01/20
+#### Updated by Timothy Roe, Jr on 11/1/20 and Submitted by Cameron Ho on 11/01/20
 #### Return [Home](index.md)

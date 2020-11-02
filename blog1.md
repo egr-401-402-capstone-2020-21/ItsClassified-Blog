@@ -29,5 +29,5 @@ The SRS document that we are building as we continue this project reflects only 
 
 Above is a visual representation of SVM
 
-#### Updated and Submitted by Cameron Ho on 10/25/20
+#### Updated Updated by Timothy Roe, Jr on 11/1/20 and Submitted by Cameron Ho on 10/25/20
 #### Return [Home](index.md)
