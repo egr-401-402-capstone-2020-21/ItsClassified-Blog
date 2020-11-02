@@ -2,19 +2,9 @@ Return [Home](index.md)
 
 # Blog 1: Merging of SoundBytes and Here's Your Sign
 
+
+
 Hello! Welcome to the blog for Its Classified, the new AI comparison team! The only change between this team and the two other teams, "Here's Your Sign" and "SoundBytes" is that instead of being two teams focused on sound and images, we are one big team consisting of all members from both teams.
-
-# Week of 10/19/20 - 10/25/20 (Week 9)
-
-This week, the team set out to complete the following tasks
-
-- Updating & Merging the Blog for both teams.
-- Meeting w/ Client (Both Teams)
-- Redefining the SRS Section 4: Requirements Analysis 
-- Complete the SRS Section 5: Risk Assessment
-- Discuss and Review potential ideas for project scheme
-- Merge Documentation
-- Merge Logsheet
 
 This week, after our final training with our Technical Advisor, we had a realization that our teams were doing very similar things thus, we decided that we were going to combine our teams and projects. With the merging of groups we also had to merge our documents. 
 The project that we came up with as a massive group is a mixture of both of our original projects. From the SoundBytes team, we wanted to keep the idea of being able to make something that can switch between multiple AI algorithms, and from the Here's Your Sign team, we wanted to keep the final deliverable of a research paper comparing all the algorithms that we plan on working on. 
@@ -39,5 +29,5 @@ The SRS document that we are building as we continue this project reflects only 
 
 Above is a visual representation of SVM
 
-#### Updated by Timothy Roe on 10/25/20 and Submitted by Cameron Ho on 10/25/20
+#### Updated and Submitted by Cameron Ho on 10/25/20
 #### Return [Home](index.md)
