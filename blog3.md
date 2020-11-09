@@ -25,5 +25,5 @@ We have also found public datasets online that we will be using to train and tes
 
 Lastly, we are in the process of creating a project schedule for next semester so that the team, our professor, our client, and our technical advisor can keep track of what we will be doing over the upcoming weeks.
 
-#### Updated and Submitted by Cameron Ho on 11/8/2020
+#### Updated by Timothy Roe, Jr. on 11/8/2020 and Submitted by Cameron Ho on 11/8/2020
 #### Return [Home](index.md)
