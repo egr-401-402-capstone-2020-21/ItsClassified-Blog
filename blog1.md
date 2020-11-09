@@ -25,7 +25,7 @@ Lastly, the kernel is the type of kernel that is used when compiling the algorit
 
 The SRS document that we are building as we continue this project reflects only SVM, as our development methodology will be an agile approach. But as we continue to add more AI algorithms to the interface, we will add those algorithms to the document. 
 
-![Image of SVM visually](https://github.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/blob/master/images/blog1/svmBlog6.png?raw=true)
+![Image of SVM visually](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/gh-pages/images/blog1/svmBlog6.png)
 
 Above is a visual representation of SVM
 
