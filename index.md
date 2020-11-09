@@ -5,11 +5,16 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
-## Week of 11/1/20 - 11/8/20 (Week 10)
+## Week of 11/1/20 - 11/8/20 (Week 11)
 
 This week, the team set out to complete the following tasks
 
-- TODO (testing merge request ability)
+- Correct & Update Branch Configuration for Blog
+- Complete Deliverable 7: SRS Section 6
+- Analyze Audio Datasets (UrbanSound)
+- Begin Deliverable 8: SRS Section 7
+- Communicate w/ Jeff regarding further questions.
+- Storage System Setup for Datasets
 
 [Continue Reading Here...](blog3.md)
 
