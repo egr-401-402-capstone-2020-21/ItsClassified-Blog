@@ -21,12 +21,12 @@ We have also completed going over our SRS documents and refactoring them to make
 
 We have also found public datasets online that we will be using to train and test the AI algorithms with, for both sound and images. Below is an image of the of a stop sign and a traffic light that are highlighted to visually demonstrate what the algorithms will be identifying when completed.
 
-![Image of stop sign and traffic light](https://github.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/blob/master/images/blog3/imageDataSetEx.png?raw=true)
+![Image of stop sign and traffic light](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog3/imageDataSetEx.png)
 
 We have begun to also identify and create spectrograms from the audio files we are running in this AI. These spectorgrams output an image that looks like the ones below. The AI reads these and handles regression testing accordingly. These were generated with the library "librosa."
 
-![Spectogram 1](https://github.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/blob/master/images/blog3/spectogram_1.png?raw=true)
-![Spectogram 2](https://github.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/blob/master/images/blog3/spectorgram_2.png?raw=true)
+![Spectogram 1](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog3/spectogram_1.png)
+![Spectogram 2](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog3/spectorgram_2.png)
 
 Lastly, we are in the process of creating a project schedule for next semester so that the team, our professor, our client, and our technical advisor can keep track of what we will be doing over the upcoming weeks.
 
