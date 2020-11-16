@@ -14,7 +14,7 @@ The UI that we have been working on will be the page that the users will see and
 In this page, users will be able to look at the all of the algorithms that we have trained and have the ability to choose the dataset and algorithm for on the spot results with graphs and classification results.
 ![Image of datasets](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog4/datasetUI.png)
 
-![Image of resultshttps://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog4/graphsAndResult.png
+![Image of results] (https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog4/graphsAndResult.png)
 
 
 We also been working on the SRS document, this week we have completed the schedule. This will serve as the schedule for the entire Spring semester.
