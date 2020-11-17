@@ -34,5 +34,5 @@ Since this is only the first week, we still have some tasks that need to be comp
 These include creating a wrapper class that handles various procedures needed for dealing with datasets, begin implementation of the interchangeability of algorithms, and finish redesigning the SRS to reflect the sections instead of the sprints.
 Although these tasks are not completed, they have been started and will be completed before Sprint 2 is completed.
 
-#### Updated by Cameron Ho on 11/15/2020
+#### Updated by Timothy Roe, Jr. on 11/16/20 and Submitted by Cameron Ho on 11/15/2020
 #### Return [Home](index.md)

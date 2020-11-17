@@ -5,6 +5,19 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 11/9/20 - 11/15/20 (Week 12)
+
+This week, the team set out to complete the following tasks
+
+- Complete Deliverable 8: SRS Section 7
+- Send Client Week 12 Meeting Minutes for Verification
+- Finalize Datasets (In Progress)
+- Create Wrapper Class for Various Datasets (In Progress)
+- Complete the WebUI Design (In Progress)
+- Select Algortihms for Implmentation (In Progress)
+
+[Continue Reading Here...](blog4.md)
+
 ## Week of 11/1/20 - 11/8/20 (Week 11)
 
 This week, the team set out to complete the following tasks
