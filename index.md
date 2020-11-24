@@ -5,6 +5,21 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 11/16/20 - 11/23/20 (Week 13
+
+This week, the team set out to complete the following tasks
+
+- Continue Development of the WebUI Design (Complete requirements for current Sprint)
+- Finalize Datasets
+- Perform Dataset Manipulation
+- Develop Model Serializer & Reserializer
+- Begin Development/Supporting Support Vector Machine
+- Complete/Prepare for Presentation on 11/24/20
+- Submit Presentation Package
+- Complete Deliverable 8: SRS Section 7
+
+[Continue Reading Here...](blog5.md)
+
 ## Week of 11/9/20 - 11/15/20 (Week 12)
 
 This week, the team set out to complete the following tasks
