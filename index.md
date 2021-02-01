@@ -5,6 +5,16 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 1/25/21 - 2/1/21 (Week 1)
+This week, the team set out to complete the following tasks
+
+- Create Story Points for Future Sprints
+- Improve Code from Previous Sprints
+- Update the Look and Functionality of the UI
+- Work on SVM and Random Forests AI Models
+
+[Continue Reading Here...](blog6.md)
+
 ## Week of 11/16/20 - 11/23/20 (Week 13)
 
 This week, the team set out to complete the following tasks
@@ -62,7 +72,7 @@ This week, the team set out to complete the following tasks
 
 ## Week of 10/19/20 - 10/25/20 (Week 9)
 
-This week, the team set out to complete the following tasks	
+This week, the team set out to complete the following tasks
 
 - Updating & Merging the Blog for both teams.
 - Meeting w/ Client (Both Teams
