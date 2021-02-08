@@ -6,6 +6,10 @@ Return [Home](index.md)
 This week was mostly the team getting AI implementation completed and updating the UI.
 The biggest decision that we made this week is that we decided to rescope our project.
 
+According to our schedule that we created before the break, we are a little ahead of schedule. To be exact we are 2 tasks ahead of schedule the schedule that we have implemented.
+Here is an image of a Gant chart that we have for the entire project. According to this, we have completed 66% of the number of tasks.
+This number is relative to how many tasks we have completed and how many there are total and does not pertain to how difficult each task will be. But nonetheless we have made good progress on the project and are a little ahead of our intended schedule. 
+
 ## Rescoping the Project
 
 As a team we decided to change the focus of the project. Originally we wanted to have our AI models be trained in identifying both street signs and traffic noises, but we felt that we were spread a little thin.
@@ -33,6 +37,7 @@ Grayscale Images:
 The output has 3 lines for each of the trained models. The first line shows how accurate the model is, the second line is the cross validation, and the third line shows where the heatmap image is saved to.
 Cross validation is a resampling procedure used to evaluate machine learning models' results.
 A heatmap is a graphical image that makes sense of the data produced by the AI model. The ideal perfect model has a strong diagonal line from the top left point to the bottom right point.
+Having a strong diagonal line shows that the model is well trained and what is predicted by the AI model is the actual intended value.
 
 Here is an image of how cross validation works:
 ![Image of Cross Validation](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog7/crossValidation.png)
@@ -57,7 +62,6 @@ As far as the UI is concerned, last week we had filler data for the graphical ou
 
 This week we were also able to complete Deliverable 9, which is the final demonstration script. This script will be used for when we present our final completed project.
 In our demonstration we will be showing viewers the UI's capabilities and how we were able to implement the AI models and run them locally on one machine.
-
 
 #### Submitted by Cameron Ho on 2/7/2021
 #### Return [Home](index.md)
