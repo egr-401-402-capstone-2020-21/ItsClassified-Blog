@@ -7,8 +7,12 @@ This week was mostly the team getting AI implementation completed and updating t
 The biggest decision that we made this week is that we decided to rescope our project.
 
 According to our schedule that we created before the break, we are a little ahead of schedule. To be exact we are 2 tasks ahead of schedule the schedule that we have implemented.
-Here is an image of a Gant chart that we have for the entire project. According to this, we have completed 66% of the number of tasks.
-This number is relative to how many tasks we have completed and how many there are total and does not pertain to how difficult each task will be. But nonetheless we have made good progress on the project and are a little ahead of our intended schedule. 
+Here is an image of a Gant chart that we have for the entire project. According to this, we have completed 63% of the number of tasks.
+This number is relative to how many tasks we have completed and how many there are total and does not pertain to how difficult each task will be. But nonetheless we have made good progress on the project and are a little ahead of our intended schedule.
+
+Gant Burndown Chart:
+![Image of Burndown Chart](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog7/burndownChart.png)
+
 
 ## Rescoping the Project
 
