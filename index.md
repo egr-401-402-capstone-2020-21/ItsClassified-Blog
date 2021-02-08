@@ -5,6 +5,17 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 2/2/21 - 2/8/21 (Week 2)
+This week, the team set out to complete the following tasks
+
+- Rescoping the Project
+- Continue Implementing the AI Models
+- Continue Working on the UI
+- Completing Documentation for EGR402
+
+[Continue Reading Here...](blog7.md)
+
+
 ## Week of 1/25/21 - 2/1/21 (Week 1)
 This week, the team set out to complete the following tasks
 
