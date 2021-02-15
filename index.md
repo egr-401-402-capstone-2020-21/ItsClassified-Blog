@@ -5,6 +5,13 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 2/9/21 - 2/15/21
+This week, the team set out the compete the following tasks
+
+- Updating the Current State of the AI Implementation
+- Update and Add onto the UI
+- Research on Classifications and US Street Sign Discrepancies
+
 ## Week of 2/2/21 - 2/8/21 (Week 2)
 This week, the team set out to complete the following tasks
 
