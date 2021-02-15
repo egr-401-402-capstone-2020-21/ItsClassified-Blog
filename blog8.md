@@ -3,6 +3,10 @@ Return [Home](index.md)
 # Blog 8: Sprint Iteration 4
 
 This week is the first week of Sprint Iteration 4. The main objectives that we had for this week were more AI implementation, adding features to the UI, and more Research.
+Also at this moment, we have completed 71% of our tasks. Remember from the last [blog post](blog7.md), this is only a percentage of the total tasks completed,
+and not taking into account the difficulty of the task.
+
+![Image of Burndown Chart](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/71Burndown.png)
 
 ## Current State of the AI Implementation
 
@@ -12,6 +16,13 @@ For the testing dataset, we have increased the amount form 2,500 to 12,000.
 We have also changed how the datasets are being built. In the previous implementations there were little deviations in the way we were training, but now we are randomizing the training for each classification.
 By randomizing the images selected from each classification we are able to get a more true sample for each classification.
 After doing some research and analyzing the results of our previous tests, we found out that the accuracies of the AI models were actually between 50-80%. The 97% and above numbers that we were seeing were not a tur representation of the model's abilities.
+Below are the images of the old statistics and the new statistics. As you can see, there are a lot more images that are being used to train and test the AI models.
+
+![Image of Old Statistics](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/oldStats.png)
+
+![Image of New Statistics](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/newStats.png)
+
+We have also started the implementation of Unit Testing. This will serve as a double check for all of the training and testing we are doing, and ensure that the AI is doing what we are intending the model to do.
 
 ## UI Implementation
 
@@ -19,9 +30,16 @@ For the UI, we have added some new features. These features consisted of a real 
 Another feature that we were able to complete this week is when the model is done running, it will output the percentage comparison of the different models on their time, efficiency, and accuracy.
 This will be demonstrated on a bar graph comparing two or more models and a data frame box. Additionally, to improve the user experience, we have added celebratory balloons to demonstrate the model's completion.
 
+![Video of UI](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/UI.mov)
+
 ## Research: Classifications
 
-
+When classifying images there is an effective practice for data augmentation. To do this, traditional affine and elastic transformations to create new images are used. Some of these transformations include rotation, reflection, zooming in and out, shifting, applying distortion, and changing the colors.
+Even using multiple of these techniques might not be enough for an AI model to correctly classify an image.
+Using traditional methods of transformations allows the classification of algorithms to be more efficient when training.
+Other forms of transformations are using histograms equalization, enhancing the image brightness, white balancing, sharpening, and blurring.
+In the real world, the world has depth, its not flat like a piece of paper. By using texture transfer, it is possible to synthesize texture in an image by giving the original image visual attributes.
+By using a technique called quilting, it allows for synthesizing a new image by stitching small patches of texture.
 
 ## Research: US Street Sign Discrepancies
 
@@ -39,5 +57,5 @@ As you can see, they are all the same sign and mean the same things, but they ha
 
 ![Image of Different Signs](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/differences.png)
 
-#### Updated by Cameron Ho on 2/14/2021
+#### Submitted by Cameron Ho on 2/14/2021
 #### Return [Home](index.md)
