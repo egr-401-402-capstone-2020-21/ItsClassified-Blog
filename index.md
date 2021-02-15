@@ -12,6 +12,8 @@ This week, the team set out the compete the following tasks
 - Update and Add onto the UI
 - Research on Classifications and US Street Sign Discrepancies
 
+[Continue Reading Here...](blog8.md)
+
 ## Week of 2/2/21 - 2/8/21 (Week 2)
 This week, the team set out to complete the following tasks
 

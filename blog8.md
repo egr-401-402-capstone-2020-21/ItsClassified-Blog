@@ -18,7 +18,11 @@ By randomizing the images selected from each classification we are able to get a
 After doing some research and analyzing the results of our previous tests, we found out that the accuracies of the AI models were actually between 50-80%. The 97% and above numbers that we were seeing were not a tur representation of the model's abilities.
 Below are the images of the old statistics and the new statistics. As you can see, there are a lot more images that are being used to train and test the AI models.
 
+Old Dataset: 
+
 ![Image of Old Statistics](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/oldStats.png)
+
+New Dataset:
 
 ![Image of New Statistics](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/newStats.png)
 
