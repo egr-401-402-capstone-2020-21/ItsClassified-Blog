@@ -32,7 +32,7 @@ the conventions that the MUTCD plan out can be altered to an extent, and there a
 Some of the rules that all of the states follow are the color hues and reflectivity. All of the colors and amount of reflectivity on each of the traffic signs must be the same to ensure that there is no confusion when going through different states.
 Below is an image that shows the states and US federal land and which convention they follow.
 
-![Image of MUTCD](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog7/burndownChart.png)![Image of Burndown Chart](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/UMTCDimage.png)
+![Image of MUTCD](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog8/UMTCDimage.png)
 
 An example of a sign that is a little different between states is the "Parking with Time Restrictions" sign. Below is a picture of California, New York, and Seattle.
 As you can see, they are all the same sign and mean the same things, but they have enough of a difference that an AI model might consider it a new classification of sign.
