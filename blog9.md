@@ -6,8 +6,7 @@ This week is the second week of Sprint Iteration 4. This week we are continuing 
 
 According to the burn down chart and the tasks that have been scheduled out, we are currently at 87% complete with the implementation of the project. With this we are working a little ahead of scheduled, which allows for the ability to correct mistakes that might be determined throughout the course of the development of the implementation as we enter the final weeks. The Gant chart is as follows:
 
-[ALEX INSERT HERE]
-
+![BurnDown](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog9/S4W2_burn_down.png)
 ## AI MODELS AND UNIT TESTING
 Last week, we updated the dataset which required us to retrain all the models. To do this we updated the dataset database.
 Doing this allows us to retrain the models without going into each of the AI models themselves and training them manually, we can train them all at once if wanted to.
