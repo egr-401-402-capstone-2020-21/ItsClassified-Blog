@@ -25,7 +25,7 @@ We added a histogram of the dataset distribution for both training and testing.
 
 We also added a bar that shows the progress of the image classification, and once it finishes it shows the sign type and accuracy of the model.
 
-![UI1](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog9/ui1.png)
+![UI1](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog9-old/ui1.png)
 
 ![UI2](https://raw.githubusercontent.com/egr-401-402-capstone-2020-21/ItsClassified-Blog/main/images/blog9/ui2.png)
 
