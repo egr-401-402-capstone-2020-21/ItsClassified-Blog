@@ -9,10 +9,11 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 This week, the team set out to complete the following tasks.
 
 - Continuing the Implementation of AI Models
-- Adding Test Cases to Test and Confirm the relability of AI Models
+- Adding Test Cases to Test and Confirm the reliability of AI Models
 - Continue the Implementation of the User Interface
 - Upload AI Results to Google Drive (Cloud)
 - Research on Classifications and US Street Sign Discrepancies
+[Continue Reading Here...](blog9.md)
 
 ## Week of 2/9/21 - 2/15/21
 This week, the team set out to complete the following tasks.
@@ -68,7 +69,7 @@ This week, the team set out to complete the following tasks
 - Finalize Datasets (In Progress)
 - Create Wrapper Class for Various Datasets (In Progress)
 - Complete the WebUI Design (In Progress)
-- Select Algortihms for Implmentation (In Progress)
+- Select Algorithms for Implementation (In Progress)
 
 [Continue Reading Here...](blog4.md)
 
