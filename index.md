@@ -13,6 +13,7 @@ This week, the team set out to complete the following tasks.
 - Continue the Implementation of the User Interface
 - Upload AI Results to Google Drive (Cloud)
 - Research on Classifications and US Street Sign Discrepancies
+
 [Continue Reading Here...](blog9.md)
 
 ## Week of 2/9/21 - 2/15/21
