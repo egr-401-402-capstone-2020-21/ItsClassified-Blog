@@ -36,7 +36,8 @@ is stored into a Google cloud drive and saves additional information about the m
 categories of information that pertain to each model. 
 
 
-###SCORE REPORT
+### SCORE REPORT 
+
 First in the colored folder contains some information about the model's efficiency and performance. When you click 
 on the file, you have the option to view the score result, classification result, cross validation result, and prediction 
 result. The score result contains model name, average accuracy, the time it took the model to calculate the score, and 
