@@ -32,7 +32,7 @@ performance than others.
 ![](./images/blog10/Animated_GIF.gif)
 
 The animated gif above illustrates the automatic report that is being generated after running the models. The csv report 
-is stored into a google cloud drive and saves additional information about the models. The csv report generates three 
+is stored into a Google cloud drive and saves additional information about the models. The csv report generates three 
 categories of information that pertain to each model. 
 
 First in the colored folder contains some information about the model's efficiency and performance. When you click 
@@ -68,8 +68,8 @@ of the model.
 
 
 As mentioned above, each score types is identified through true positives, false positives, and false negatives. A true 
-positive is the case in which we predicted YES and the actual output was also YES. A false positive is the case in which 
-we predicted YES and the actual output was NO. And a false negative is the case in which we predicted NO and the actual 
+positive is the case in which we predicted YES, and the actual output was also YES. A false positive is the case in which 
+we predicted YES, and the actual output was NO. A false negative is the case in which we predicted NO, and the actual 
 output was YES. 
 
 
@@ -118,4 +118,4 @@ on unseen data.
 
 
 ##
-Updated by Daniel Antonelli & Rigoberto Gonzalez on 2/27/2021
+Updated by Daniel Antonelli & Rigoberto Gonzalez on 2/28/2021
