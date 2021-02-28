@@ -58,13 +58,13 @@ positive prediction value.
 
 
 ## 
-You may be wondering why do need to calculate the different types of score for each model? In order to get a more 
-comprehensive analysis, we need to fully evaluate the effectiveness of each model, and to do this, we need to examine 
-other types of evaluation metrics. Often times, when you are evaluating machine learning algorithms you typically use 
-the metric measure of the accuracy score. When using the accuracy score to evaluate the algorithms, you may get a high 
-accuracy of 90% or above and it may seem like the model is performing well. However, when the accuracy score is evaluated
-against other metrics, it produces poor results. This is the reason why other score types are necessary because the 
-classification accuracy alone does not tell the full store and is not enough to truly judge the performance of the model.
+In order to get a more comprehensive analysis, we need to fully evaluate the effectiveness of each model, and to do this, 
+we need to examine other types of evaluation metrics. Often times, when you are evaluating machine learning algorithms 
+you typically use the metric measure of the accuracy score. When using the accuracy score to evaluate the algorithms, 
+you may get high accuracy of 90% or above and it may seem like the model is performing well. However, when the accuracy 
+score is evaluated against other metrics, it produces poor results. This is the reason why other score types are necessary 
+because the classification accuracy alone does not tell the full store and is not enough to truly judge the performance 
+of the model.
 
 
 As mentioned above, each score types is identified through true positives, false positives, and false negatives. A true 
@@ -95,7 +95,7 @@ example, if our true positive was 1, and our false negative was 6, then our mode
 
 The f1 score measures the combined score of precision and recall, and is essentially the measure of the average of 
 two. F1 score is needed when you want to seek a balance between prevision and recall. When you need a balance between
-the precision and recall and there exist an uneven class distribution, f1 score might be a better metric to us. 
+the precision and recall and there exist an uneven class distribution, f1 score might be a better metric to use. 
 
 ![BurnDown](./images/blog10/f1.png)
 
