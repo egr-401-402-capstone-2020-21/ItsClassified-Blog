@@ -5,7 +5,18 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
-## Week of 2/16/21 - 2/22/21
+## Week of 2/22/21 - 2/28/21
+This week, the team set out to complete the following tasks.
+
+- Progress update
+- Model performance/statistics update
+- Report generation and storage on Google Drive
+- Examination of report contents
+- Finalizing implementation
+
+[Continue Reading Here...](blog10.md)
+
+## Week of 2/16/21 - 2/21/21
 This week, the team set out to complete the following tasks.
 
 - Continuing the Implementation of AI Models
