@@ -16,6 +16,7 @@ project.
 
 
 ![BurnDown](./images/blog10/burndown.png)
+![BurnDown](./images/blog10/interation5 task.png)
 
 
 ## Statistics For Colored Image Accuracy
@@ -91,7 +92,7 @@ example, if our true positive was 1, and our false negative was 6, then our mode
 1/1+5 = 0.16. This means that the model correctly identifies 16% of stop signs. 
 
 ![BurnDown](./images/blog10/recall.png)
-## 
+#
 
 The f1 score measures the combined score of precision and recall, and is essentially the measure of the average of 
 two. F1 score is needed when you want to seek a balance between prevision and recall. When you need a balance between
@@ -99,7 +100,7 @@ the precision and recall and there exist an uneven class distribution, f1 score 
 
 ![BurnDown](./images/blog10/f1.png)
 
-##
+
 The cross validation result stores additional information such as fit time, score time, and test accuracy of each different
 model. The prediction result provides a more comprehensive analysis by running tests on a larger data sample. The model is 
 run on over 2000 images and then generates the model name, time it took to classify each image, the predicted and actual 
@@ -117,5 +118,5 @@ on unseen data.
 ![BurnDown](./images/blog10/color_predict.png)
 
 
-##
+
 Updated by Daniel Antonelli & Rigoberto Gonzalez on 2/27/2021
