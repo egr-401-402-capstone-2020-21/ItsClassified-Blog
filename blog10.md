@@ -10,12 +10,11 @@ has been completed thus far. However, for this first week of sprint 5 iteration 
 implementations go, we are most of the way done and this final sprint was mostly concerned with refactoring and improving
 the existing models. The burn down chart illustrates that we are currently ahead of schedule from our ideal projections, 
 this is tremendous news for our team because it provides us with more time to work on and improve other aspects of our 
-project. 
-
-
+project.
 
 ![BurnDown](./images/blog10/burndown.png)
-![BurnDown](./images/blog10/interation5 task.png)
+
+![BurnDown](images/blog10/interation5task.png)
 
 
 ## STATISTICS FOR COLORED IMAGE ACCURACY
