@@ -5,6 +5,17 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 3/01/21 -3/07/21
+This week, the team set out to complete the following tasks.
+
+- Generating Models
+- Refactoring UI 
+- Deliverable 10
+- Restructuring AI Models & Unit Testing
+- Adding Landing Page for UI 
+
+[Continue Reading Here...](blog11.md)
+
 ## Week of 2/22/21 - 2/28/21
 This week, the team set out to complete the following tasks.
 
