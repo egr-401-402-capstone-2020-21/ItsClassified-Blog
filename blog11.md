@@ -1,3 +1,5 @@
+Return [Home](index.md)
+
 # Blog 11: Final Implementation Phase
 This was the second week of Sprint 5. Since this is the last part of the final implementation phase, the objective of
 this last week is the same as the first week. Which involved restructuring AI models, generating the models reports,

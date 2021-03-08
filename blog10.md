@@ -1,3 +1,5 @@
+Return [Home](index.md)
+
 # Blog 10: Final Implementation Phase
 
 This was the first week of Sprint 5. Since this is the first part of the final implementation phase, the objective of
