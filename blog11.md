@@ -116,5 +116,5 @@ an image and the number of predictions it produced.
 ![BurnDown](images/blog11/model_result.png)
 
 
-Updated by Daniel Antonelli & Rigoberto Gonzalez on 2/28/2021
+Updated by Daniel Antonelli & Rigoberto Gonzalez on 3/07/2021
 
