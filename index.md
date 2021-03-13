@@ -5,6 +5,18 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 3/08/21 -3/14/21
+This week, the team set out to complete the following tasks.
+
+- Midterm Presentation Package
+- Completing UI implementation 
+- Re-editing Deliverable 10 Reflection from feedback
+- Adding functionality to models and datasets class
+- Writing model reports on different OS
+- Instructions to generate report on different OS hardware
+
+[Continue Reading Here...](blog12.md)
+
 ## Week of 3/01/21 -3/07/21
 This week, the team set out to complete the following tasks.
 
