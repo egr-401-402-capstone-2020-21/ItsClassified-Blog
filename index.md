@@ -5,6 +5,16 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 3/15/21 -3/21/21
+This week, the team set out to complete the following tasks.
+
+- Broader Impact Essay
+- Midterm Presentation  
+- Research Paper Inquiries
+- Finalizing User Interface
+
+[Continue Reading Here...](blog13.md)
+
 ## Week of 3/08/21 -3/14/21
 This week, the team set out to complete the following tasks.
 
