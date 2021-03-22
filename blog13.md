@@ -19,4 +19,12 @@ impact top the ML and AI community.
 
 ![Research paper](./images/blog13/research_paper.png)
 
+## Broader Impact Essay
+Members this week worked on the broader impact essay, which talks about how our capstone project impacts society. In this
+paper we go into detail on the economically, safety, and environmental impact our capstone project will have on the local
+and global level. We examine the positive and negative effects that our capstone project can potentially have. We then discuss
+in further detail if the findings from our project could potentially help solve some technological issues that are current today. 
+
+![AI in nature](./images/blog13/AI_Nature.png)
+
 Updated by Daniel Antonelli & Rigoberto Gonzalez on 3/20/2021
