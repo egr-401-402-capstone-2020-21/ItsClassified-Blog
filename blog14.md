@@ -22,13 +22,48 @@ insights and solutions.
 
 ![Research paper](./images/blog14/research_report.png)
 
-## Research Paper Notes
+## Research Paper Formatting
 
-Different members of the team, spoke to CBU engineering professors on the composition, and the formatting of a research
-paper. Some insights that were given from a professors was the importance of research papers presentation and format
-which included the
+In this task members were asked to review different research papers, take notes on the formatting structure, and report
+findings with the team in a stand-up meeting. At one of the team meetings, we came to a consensus on the format of the
+research paper, and how decided to move forward. The format that we decided as a team to write the research paper is as
+follows:
 
-## Research Paper
+#### Title:
+
+Analyzing the effectiveness and efficiency of select machine learning classifiers
+
+#### Abstract:
+
+...
+
+#### State of the Art:
+
+The current situation regarding image classification and its applications with roadsigns and traffic. Additionally, the
+US roadsigns convention discrepancy
+
+#### Background Info/Anatomy of the Algorithms:
+
+Information regarding how each of the models work mathematically and any background information regarding their
+properties. Information on what exactly is being tested such as cross-validation, score report, classification report,
+and prediction report.
+
+#### Experiment
+
+Procedure, in the IDE, the libraries used, API’s, and the devices that were used to perform the experiment, and the
+technical specs. The datasets that were used and why we used them.
+
+#### Results
+
+Illustration of the results with plots, graphs and describe the times and data that was gathered from the code
+
+#### Discussion
+
+Discuss the results and their significance and clarify how the US roadsigns has discrepancy
+
+#### Conclusion
+
+Ending with a brief summarization of all the information that was discussed.
 
 ![Research paper](./images/blog13/research_paper.png)
 Updated by Daniel Antonelli & Rigoberto Gonzalez on 3/26/2021

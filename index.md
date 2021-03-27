@@ -5,6 +5,14 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 3/22/21 -3/28/21
+This week, the team set out to complete the following tasks.
+
+- Generating reports on different OS devices
+- Research Paper Format
+
+[Continue Reading Here...](blog14.md)
+
 ## Week of 3/15/21 -3/21/21
 This week, the team set out to complete the following tasks.
 
