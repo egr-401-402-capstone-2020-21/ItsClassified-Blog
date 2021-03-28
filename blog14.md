@@ -2,13 +2,21 @@ Return [Home](index.md)
 
 # Blog 14: Research Paper and Testing
 
-Sprint 7 weeks 1 consisted of researching and prepare an academic paper. Additionally, each member of the team ran the
-generated model reports on their different OS hardware devices.
+Sprint 7 weeks 1 consisted of researching and preparing an academic paper. Additionally, each member of the team ran the
+generated model reports on their different OS hardware devices. After speaking with our client on Monday, we decided to
+refactor our burn-down chart to reflect the remaining tasks of the project rather than just implementation. The revised
+burn-down chart will discuss the revised burn-down chart in further detail below.
 
-## Burndown Chart for project research
+## Refactoring of Burndown Chart
 
-As the burn-down chart illustrates, we have finished the implementation phase of the project. We will be moving forward
-with the research and testing of the project. Our current burn down charts puts as...
+As the title suggests, our previous burn-down chart only contained tasks related to the project's implementation, such
+as machine learning model training and user interface. The revised burn-down chart now includes the overall tasks of the
+project. The functions included in the current burn-down chart will contain work that reflects data analysis, research
+paper, course deliverable, and presentation slides. As the burn-down chart illustrates, we have finished the
+implementation phase of the project. We will be moving forward with the research and testing of the project. We are
+currently ahead of our ideal progress and on track to completing our remaining tasks.
+
+![Burndown_Chart](./images/blog14/burndownchart.png)
 
 ## Running the models
 
@@ -35,7 +43,8 @@ Analyzing the effectiveness and efficiency of select machine learning classifier
 
 #### Abstract:
 
-...
+The main findings/results, and the significance of those findings/results. The central question or statement in which the
+research will address. Brief context or background information of the research done, and specific topic of the research.
 
 #### State of the Art:
 

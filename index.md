@@ -10,6 +10,7 @@ This week, the team set out to complete the following tasks.
 
 - Generating reports on different OS devices
 - Research Paper Format
+- Refactor Burndown Chart
 
 [Continue Reading Here...](blog14.md)
 
