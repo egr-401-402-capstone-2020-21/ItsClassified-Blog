@@ -5,6 +5,14 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 3/29/21 -4/4/21
+This week, the team set out to complete the following tasks.
+
+- Refactor Format of Research Paper
+- Unite Testing   
+
+[Continue Reading Here...](blog14.md)
+
 ## Week of 3/22/21 -3/28/21
 This week, the team set out to complete the following tasks.
 

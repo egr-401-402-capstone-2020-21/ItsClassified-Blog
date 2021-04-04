@@ -12,7 +12,7 @@ the accuracy of the trained models.
 
 [comment]: <> (TODO: Place the new burndown chart iimage in blog 12 folder, addtionally give a short summary of the 
 status in our progress)
-
+****
 ## Deliverable 10 Reflection
 
 Based on the comments from deliverable 10, we re-edited the parts were a personal reflection was needed. This allowed
