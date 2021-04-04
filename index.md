@@ -9,7 +9,7 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 This week, the team set out to complete the following tasks.
 
 - Refactor Format of Research Paper
-- Unit Testing   
+- Testing   
 
 [Continue Reading Here...](blog14.md)
 
