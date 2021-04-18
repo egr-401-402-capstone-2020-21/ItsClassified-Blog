@@ -5,17 +5,22 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
-## Week of 4/2/21 -4/18/21
+## Week of 4/12/21 -4/18/21
 This week, the team set out to complete the following tasks.
 
-- 
-- 
+- Finishing Research Paper
+- Finishing Testing  
+- Preparing For Design Showcase
+
+[Continue Reading Here...](blog17.md)
 
 ## Week of 4/5/21 -4/11/21
 This week, the team set out to complete the following tasks.
 
 - Refactor Format of Research Paper
-- Testing  
+- Began Testing  
+
+[Continue Reading Here...](blog16.md)
 
 ## Week of 3/29/21 -4/4/21
 This week, the team set out to complete the following tasks.
