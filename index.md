@@ -5,6 +5,12 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## Week of 4/2/21 -4/18/21
+This week, the team set out to complete the following tasks.
+
+- 
+- 
+
 ## Week of 4/5/21 -4/11/21
 This week, the team set out to complete the following tasks.
 
