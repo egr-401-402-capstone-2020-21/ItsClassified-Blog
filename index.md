@@ -5,6 +5,8 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 # Blog Entries
 
+## EGR 402 (Semester 2)
+
 ## Week of 4/12/21 -4/18/21
 This week, the team set out to complete the following tasks.
 
@@ -123,6 +125,8 @@ This week, the team set out to complete the following tasks
 - Work on SVM and Random Forests AI Models
 
 [Continue Reading Here...](blog6.md)
+
+## EGR 401 (Semester 1)
 
 ## Week of 11/16/20 - 11/23/20 (Week 13)
 
