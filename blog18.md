@@ -2,9 +2,11 @@ Return [Home](index.md)
 
 # Blog 18: Design Showcase Presentation & Deployment of UI
 
-This was the last semester of the week before finals hooray! The team was mainly concerned with preparing for the
-virtual design showcase presentation, which took place on Thursday. In addition, we also finished up the research paper
-and deployed our web application.
+This was the last semester of the week before finals hooray! Which means all of our tasks have been completed, as you
+can view in our burndown chart. The team was mainly concerned with preparing for the virtual design showcase
+presentation, which took place on Thursday. In addition, we also finished up the research paper and deployed our web
+application. Which you can interact with [here](http://itsclassified-cbu.ml/)
+![Deployed_UI](./images/blog18/burndown.png)
 
 ![Deployed_UI](./images/blog18/UI.png)
 
@@ -22,6 +24,7 @@ application.
 ## Preparing For Final Presentation
 
 The next class is the last class of the course, and the team's only remaining task is to prepare the final presentation
-slides. During this time, the team will give a detailed presentation on our results as well as a demonstration of our web applications.
+slides. During this time, the team will give a detailed presentation on our results as well as a demonstration of our
+web applications.
 
 Updated by Daniel Antonelli & Rigoberto Gonzalez on 4/24/2021
