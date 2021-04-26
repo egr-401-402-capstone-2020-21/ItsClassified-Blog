@@ -7,6 +7,8 @@ This blog is a merger of the [SoundBytes Team](https://soundbytes-cbu.github.io/
 
 ## EGR 402 (Semester 2)
 
+
+
 ## Week of 4/19/21 -4/25/21
 This week, the team set out to complete the following tasks.
 
